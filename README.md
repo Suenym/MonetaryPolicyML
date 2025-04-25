@@ -35,6 +35,16 @@ This repository tracks that fast‑growing literature, highlights best practices
 * **Tilbury (2022)** — *Reinforcement Learning for Economic Policy: A New Frontier?* — arXiv:2206.08781.
 </details>
 
+
+### Interpretability & Alignment (selected)
+
+| Year | Authors | Why macro/finance folks should care |
+|------|---------|------------------------------------|
+| 2024 | Amodei, D. | Programmatic roadmap: “mechanistic MRI” for frontier LLMs; relevance → auditing RL agents that set policy rates |
+| 2023 | Nanda, N. | *TransformerLens* toolkit; hands-on sparse-autoencoder demo on GPT-2-small |
+| 2023 | Bai et al. (OpenAI) | Training “harmless” RLHF models; interpretability probes locate deceptive circuits |
+| 2022 | Wang et al. (Fed NY) | SHAP analysis of Random-Forest-based recession predictors |
+
 ---
 
 ## Forecasting & Nowcasting  
